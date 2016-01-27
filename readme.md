@@ -11,6 +11,10 @@ Do not expect any funny jokes here.
 ## Lawyer Jokes
 [Lawyers](Lawyers/content.md)
 
+## French Jokes
+A few french jokes.
+
+
 #Contributors
 1. Vincent
 2. Chengqing Zhou (claudezhou)
