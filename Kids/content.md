@@ -1,5 +1,8 @@
 # Kids Jokes
 
+Q: Pourquoi on ne mange pas de clowns?
+R: Parce que ça goûte drôle.
+
 Q: Do you want to hear a pizza joke?
 A: Never mind, its too cheesy.
 
@@ -15,5 +18,5 @@ A: With a tuba glue.
 Q: Why kids are always complaining
 A: to show love
 
-Q: Why do kids have a hard time hgetting up early
+Q: Why do kids have a hard time getting up early
 A : cause they're like me
