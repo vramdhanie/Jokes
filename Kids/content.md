@@ -1,6 +1,6 @@
 # Kids Jokes
 
-Q: Pourquoi on ne mange pas de clowns?
+Q: Pourquoi on ne mange pas de clowns ?
 R: Parce que ça goûte drôle.
 
 Q: Do you want to hear a pizza joke?
