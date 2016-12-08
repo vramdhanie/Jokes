@@ -17,3 +17,5 @@ A: to show love
 
 Q: Why do kids have a hard time hgetting up early
 A : cause they're like me
+
+Two penguins are taking a shower, and one penguin says to the other, "Hey, can you pass the soap"?  The second penguin replies, "What do you think I am, a typewriter"?
