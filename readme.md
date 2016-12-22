@@ -49,9 +49,10 @@ Do not expect any funny jokes here. But there are a few surprises.
 15. Sebastien
 16. Karen Tam
 17. Sean Donnelly
-18. Olivia Wei
+18. Olivia
 19. Jiayang
-20. Wenle Wang
+20. Harry Men
+21. Wenle Wang
 22. Tony Zhong
 23. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
 
