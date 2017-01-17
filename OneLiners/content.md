@@ -75,3 +75,6 @@ I have a new theory on inertia but it does not seem to be gaining momentum.
 
 #24
 I am not good writing jokes...
+
+#25
+I am really not good writing jokes in english...
