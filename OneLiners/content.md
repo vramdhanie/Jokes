@@ -82,4 +82,9 @@ Advil has a candy coating. It’s delicious. And it says right on the bottle “
 #25
 I had a job interview at an insurance company once and the lady said “Where do you see yourself in five years?” I said “Celebrating the fifth year anniversary of you asking me this question.” - Mitch Hedberg
 
+#26
+Its 2 steak hacher boulettes playing cachette, one ask the other "ous t cacher" ou steak hacher.
+
+#27 
+Want to learn a word I just made up? Plagiarism
 
