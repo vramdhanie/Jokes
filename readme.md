@@ -55,8 +55,10 @@ Do not expect any funny jokes here. But there are a few surprises.
 21. Wenle Wang
 22. Tony Zhong
 23. Philippe
-24. Jasmin
-25. Rox
+24. Jasmin Frenette
+25. Jasmin
+26. Rox
+27. Francisca Lampron
 26. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
 
 
