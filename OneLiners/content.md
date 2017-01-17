@@ -72,3 +72,6 @@ Beijing's weather is perfect.
 
 #23 
 I have a new theory on inertia but it does not seem to be gaining momentum.
+
+#24 
+Want to learn a word I just made up? Plagiarism
