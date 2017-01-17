@@ -1,5 +1,8 @@
 ﻿# One Liners
 
+#0 
+You know that show “My Three Sons”? That’d be funny if it was called “My One Dad”. - Mitch Hedberg
+
 #1
 
 A man walked into a bar. OUCH!
@@ -74,9 +77,15 @@ Beijing's weather is perfect.
 I have a new theory on inertia but it does not seem to be gaining momentum.
 
 #24
+Advil has a candy coating. It’s delicious. And it says right on the bottle “Do not have more than two.” Well then do not put a candy coating around it - Mitch Hedberg
+
+#25
+I had a job interview at an insurance company once and the lady said “Where do you see yourself in five years?” I said “Celebrating the fifth year anniversary of you asking me this question.” - Mitch Hedberg
+
+#26
 Its 2 steak hacher boulettes playing cachette, one ask the other "ous t cacher" ou steak hacher.
 
-#25 
+#27 
 Want to learn a word I just made up? Plagiarism
 
 #26
