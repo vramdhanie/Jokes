@@ -74,4 +74,4 @@ Beijing's weather is perfect.
 I have a new theory on inertia but it does not seem to be gaining momentum.
 
 #24
-Its 2 steak hacher boulettes, one ask the other "ous t cacher" ou steak hacher.
+Its 2 steak hacher boulettes playing cachette, one ask the other "ous t cacher" ou steak hacher.
