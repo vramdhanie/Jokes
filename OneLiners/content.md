@@ -72,3 +72,7 @@ Beijing's weather is perfect.
 
 #23 
 I have a new theory on inertia but it does not seem to be gaining momentum.
+
+#24
+Advil has a candy coating. It’s delicious. And it says right on the bottle “Do not have more than two.” Well then do not put a candy coating around it - Mitch Hedberg
+
