@@ -76,3 +76,7 @@ I have a new theory on inertia but it does not seem to be gaining momentum.
 #24
 Advil has a candy coating. It’s delicious. And it says right on the bottle “Do not have more than two.” Well then do not put a candy coating around it - Mitch Hedberg
 
+#25
+I had a job interview at an insurance company once and the lady said “Where do you see yourself in five years?” I said “Celebrating the fifth year anniversary of you asking me this question.” - Mitch hedberg
+
+
