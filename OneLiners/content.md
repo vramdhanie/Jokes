@@ -79,3 +79,8 @@ Its 2 steak hacher boulettes playing cachette, one ask the other "ous t cacher" 
 #25 
 Want to learn a word I just made up? Plagiarism
 
+#26
+I am not good writing jokes...
+
+#27
+I am really not good writing jokes in english...
