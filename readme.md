@@ -57,6 +57,6 @@ Do not expect any funny jokes here. But there are a few surprises.
 23. Philippe
 24. Jasmin Frenette
 25. Rox
-25. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
+26. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
 
 
