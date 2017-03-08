@@ -17,3 +17,5 @@ Q: how many programmers does it take to change a light bulb?
 A: none, that's a hardware problem
 
 I am reading a great book on anti-gravity. I can not put it down.
+
+Schrodinger's cat walks into a bar. And does not.
