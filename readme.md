@@ -19,6 +19,7 @@ Do not expect any funny jokes here. But there are a few surprises.
 
 ## One Liners
 [One Liners](OneLiners/content.md)
+[Demetri Martin](OneLiners/demetrimartin.md)
 
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
