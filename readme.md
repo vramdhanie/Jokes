@@ -1,4 +1,7 @@
 #Read Me
+
+add a new line for testing
+
 This is a repository of Jokes used as part of a crash course in git and GitHub.
 Do not expect any funny jokes here. But there are a few surprises.
 
@@ -60,8 +63,9 @@ Do not expect any funny jokes here. But there are a few surprises.
 25. Jasmin
 26. Rox the t-rox
 27. Francisca Lampron
-28. Lyne van der Knaapo
+28. Lyne van der Knaap
+29. Eric
 30. Bob Jia
-29. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
-
-
+31. Philip Fan
+32. David Shi
+33. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
