@@ -60,6 +60,5 @@ Do not expect any funny jokes here. But there are a few surprises.
 25. Jasmin
 26. Rox the t-rox
 27. Francisca Lampron
-26. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
-
+26. Philip Fan
 
