@@ -20,7 +20,7 @@ Do not expect any funny jokes here. But there are a few surprises.
 ## One Liners
 [One Liners](OneLiners/content.md)
 
-## Doctor Jokes
+## Doctor Jokes add a conflicts
 [Doctor](Doctor/content.md)
 
 ##Clown Jokes
