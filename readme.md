@@ -71,6 +71,7 @@ Do not expect any funny jokes here. But there are a few surprises.
 31. Philip Fan
 32. David Shi
 33. Bob Jia
+34. John Cornellier
 34. Bernard Malenfant
 35. Lyne Champagne
 36. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
