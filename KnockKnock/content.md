@@ -99,7 +99,7 @@ Bouddha who?
 
 Bouddha that bread for me please.
 
-#10
+#10 
 Knock! Knock!
 
 Who's there?
@@ -110,4 +110,31 @@ Europe who?
 
 No, you're a poo!
 
+
+#11
+Dozen.
+
+Dozen who?
+
+Dozen anybody want to let me in?
+
+# 12
+
+Knock! Knockw!
+
+Who's there?
+
+Joke.
+
+Joke who?
+
+Joke number 12 that should cause conflicts!
+
+#13
+
+Knock! Knock!
+Who's there? 
+Git.
+Git who?
+Git your own joke!
 
