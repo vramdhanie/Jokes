@@ -100,4 +100,11 @@ Bouddha who?
 Bouddha that bread for me please.
 
 #10
+
+Knock! Knock!
+Who's there? 
+Git.
+Git who?
+Git your own joke!
+=======
 ADD YOUR JOKE HERE
