@@ -131,4 +131,10 @@ Git who?
 Git your own joke!
 
 #13
+
+Knock Knock!
+who's there?
+the milkman
+come back later, my wife is not home
+
 ADD YOUR JOKE HERE
