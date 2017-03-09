@@ -110,5 +110,25 @@ Dozen who?
 
 Dozen anybody want to let me in?
 
-#11
+# 11
+
+Knock! Knockw!
+
+Who's there?
+
+Joke.
+
+Joke who?
+
+Joke number 10 that should cause conflicts!
+
+#12
+
+Knock! Knock!
+Who's there? 
+Git.
+Git who?
+Git your own joke!
+
+#13
 ADD YOUR JOKE HERE
