@@ -98,3 +98,15 @@ Bouddha.
 Bouddha who?
 
 Bouddha that bread for me please.
+
+# 10
+
+Knock! Knockw!
+
+Who's there?
+
+Joke.
+
+Joke who?
+
+Joke number 10 that should cause conflicts!
