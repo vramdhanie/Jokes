@@ -98,3 +98,10 @@ Bouddha.
 Bouddha who?
 
 Bouddha that bread for me please.
+
+#10
+Knock Knock!
+who's there?
+the milkman
+come back later, my wife is not home
+
