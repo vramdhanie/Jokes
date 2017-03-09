@@ -98,3 +98,15 @@ Bouddha.
 Bouddha who?
 
 Bouddha that bread for me please.
+
+#10 
+Knock! Knock!
+
+Who's there?
+
+Dozen.
+
+Dozen who?
+
+Dozen anybody want to let me in?
+
