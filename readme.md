@@ -71,4 +71,4 @@ Do not expect any funny jokes here. But there are a few surprises.
 31. Philip Fan
 32. David Shi
 33. Bob Jia
-34. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering) <--Pay attention to this line
+34. Lyne Champagne
