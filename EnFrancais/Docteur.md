@@ -10,6 +10,5 @@ Au restaurant, le garçon demande au client :
 
 http://www.blague.info/blagues/histoires_drole-50.html
 
-
-Je n'ai plus d'idees.
+Tres bon site d'histoires.
 
