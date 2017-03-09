@@ -9,3 +9,7 @@ I wanna make a jigsaw puzzle that’s 40 000 pieces. And when you finish it, it 
 
 #4
 Employee of the month is a good example of how somebody can be both a winner and a loser at the same time.
+
+#5
+The digital camera is a great invention because it allows us to reminisce. Instantly.
+
