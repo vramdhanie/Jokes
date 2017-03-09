@@ -104,13 +104,21 @@ Knock! Knock!
 
 Who's there?
 
+Europe.
+
+Europe who?
+
+No, you're a poo!
+
+
+#11
 Dozen.
 
 Dozen who?
 
 Dozen anybody want to let me in?
 
-# 11
+# 12
 
 Knock! Knockw!
 
@@ -120,9 +128,9 @@ Joke.
 
 Joke who?
 
-Joke number 10 that should cause conflicts!
+Joke number 12 that should cause conflicts!
 
-#12
+#13
 
 Knock! Knock!
 Who's there? 
@@ -137,4 +145,3 @@ who's there?
 the milkman
 come back later, my wife is not home
 
-ADD YOUR JOKE HERE
