@@ -1,6 +1,6 @@
 #Read Me
 
-add a new line for testing
+add a new line for testing and this causes a conflict
 
 This is a repository of Jokes used as part of a crash course in git and GitHub.
 Do not expect any funny jokes here. But there are a few surprises.
@@ -73,4 +73,6 @@ Do not expect any funny jokes here. But there are a few surprises.
 33. Bob Jia
 34. Lyne Champagne
 35. Bernard Malenfant
-36. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
+36. John Cornellier
+36. Mikael M. L.
+37. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
